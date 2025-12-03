@@ -1,0 +1,8 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* simple dark toggle helper */
+:root { --bg: #f8fafc; }
+.dark { --bg: #0b1220; }
+body { background: var(--bg); }
