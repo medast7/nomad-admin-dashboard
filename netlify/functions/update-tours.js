@@ -1,4 +1,4 @@
-// api/update-tours.js
+//netlify/functions/update-tours.js
 import fetch from 'node-fetch';
 
 const GITHUB_OWNER = process.env.GITHUB_OWNER; // e.g. "medast7"
