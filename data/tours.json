@@ -1,0 +1,32 @@
+[
+  {
+    "id": "t1",
+    "title": "Sahara Adventure - 3 Days",
+    "price": 180,
+    "durationDays": 3,
+    "images": ["images/sahara1.jpg", "images/sahara2.jpg"],
+    "startDates": ["2026-01-05", "2026-02-10"],
+    "status": "active",
+    "highlights": [
+      "Camel ride at sunset",
+      "Starry desert camp",
+      "Traditional Berber dinner"
+    ],
+    "description": "A short description..."
+  },
+  {
+    "id": "t2",
+    "title": "Atlas Mountains Trek - 5 Days",
+    "price": 350,
+    "durationDays": 5,
+    "images": ["images/atlas1.jpg"],
+    "startDates": ["2026-03-01"],
+    "status": "inactive",
+    "highlights": [
+      "Guided summit",
+      "Village homestay",
+      "Local cuisine tasting"
+    ],
+    "description": "..."
+  }
+]
